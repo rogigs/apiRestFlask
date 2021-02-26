@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 aiohttp-cors==0.7.0
 aiojobs==0.2.2
 alembic==1.4.2
